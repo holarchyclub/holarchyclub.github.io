@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Title
+Welcome to the Holarchy Club blog!
 ======
-Here is some text about some information.
+Our content is currently under development, check back soon!
 
-Getting started
 ======
-1. be nice
-2. be clean
-3. ???
-4. profit
+
 
 
 
